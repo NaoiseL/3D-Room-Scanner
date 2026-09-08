@@ -1,0 +1,22 @@
+# Generated point clouds — rebuilt from the raw CSV in seconds
+*.ply
+*.pcd
+
+# Scans other than the committed sample
+/data/*.csv
+!/data/sample_room.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# CAD and slicer leftovers
+*.gcode
+*.bak
+*.ipt.lock
+
+# OS
+.DS_Store
+Thumbs.db
