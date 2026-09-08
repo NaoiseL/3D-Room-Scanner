@@ -1,6 +1,6 @@
 # 3D Room Scanner
 
-A 3D room scanner built from a €70 2D LiDAR, a stepper motor, and 3D-printed parts.
+A 3D room scanner built from a 2D LiDAR, a stepper motor, and 3D-printed parts.
 **190,000 points in 90 seconds.**
 
 ![How a 180 degree sweep covers the whole sphere](docs/images/sweep-geometry.png)
