@@ -1,6 +1,6 @@
 # 3D Room Scanner
 
-A 3D room scanner built from a €70 2D LiDAR, a stepper motor, and 3D-printed parts.
+A 3D room scanner built from a 2D LiDAR, a stepper motor, and 3D-printed parts.
 **190,000 points in 90 seconds.**
 
 ![Point cloud of a scanned room, coloured by height](docs/images/pointcloud_height.png)
